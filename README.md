@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 <img align="right" alt="angegon" width="150" height="150" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"/>
 
-### I'm [Angel Gonzalez][homepage]
+### I'm [Angel Gonzalez]
 
-A developer from Madrid. I love building applications & discussing new product ideas. Reach out to me on [Linkedin][Linkedin] if you'd like to talk ✌️
-<a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a>
+A developer from Madrid. I love building applications & discussing new product ideas. Reach out to me on <a href="https://www.linkedin.com/in/angelgonzalezmartin/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a> if you'd like to talk ✌️
+
 ### I'm Currently
 
 - 👷🏽‍♂️ Studiyng in 42 Madrid
