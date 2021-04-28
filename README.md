@@ -25,6 +25,6 @@ A developer from Madrid. I love building applications & discussing new product i
 
 - 👷🏽‍♂️ Studiyng in 42 Madrid
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angegon&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angegon&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/angonzal)](https://github.com/JaeSeoKim/badge42)
