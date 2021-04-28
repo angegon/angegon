@@ -24,7 +24,7 @@ A developer from Madrid. I love building applications & discussing new product i
 
 - 👷🏽‍♂️ Studiyng in 42 Madrid
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angegon&layout=compact)][github]
+(https://github-readme-stats.vercel.app/api/top-langs/?username=angegon&layout=compact)
 
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/angonzal)](https://github.com/JaeSeoKim/badge42)
