@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angegon&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
+
 ### I'm [Angel]
 
 A developer from Madrid. I love building applications & discussing new product ideas. <br> Reach out to me on <code>
