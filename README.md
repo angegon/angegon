@@ -21,11 +21,10 @@ Here are some ideas to get you started:
 A developer from Madrid. I love building applications & discussing new product ideas. <br> Reach out to me on <code>
     <a href="https://www.linkedin.com/in/angelgonzalezmartin/" title="LinkedIn Profile"><img width="22" src="https://github.com/angegon/angegon/blob/main/linkedin.svg"> LinkedIn</a></code>    if you'd like to talk ✌️
     
- 
-    
+   
 
 ### I'm Currently
 
-- 👷🏽‍♂️ Studiyng in 42 Madrid
+- 👷🏽‍ I’m currently learning al [42 Madrid](https://www.42madrid.com)
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angegon&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
