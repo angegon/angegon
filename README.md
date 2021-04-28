@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img align="right" alt="angegon" width="300" height="120" src="https://github.com/angegon/angegon/blob/main/A8gJ.gif"/>
 
-### I'm [Angel Gonzalez]
+### I'm [Angel]
 
 A developer from Madrid. I love building applications & discussing new product ideas. <br> Reach out to me on <code>
     <a href="https://www.linkedin.com/in/angelgonzalezmartin/" title="LinkedIn Profile"><img width="22" src="https://github.com/angegon/angegon/blob/main/linkedin.svg"> LinkedIn</a></code>    if you'd like to talk ✌️
