@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="angegon" width="300" height="150" src="https://github.com/angegon/angegon/blob/main/A8gJ.gif"/>
+<img align="right" alt="angegon" width="300" height="120" src="https://github.com/angegon/angegon/blob/main/A8gJ.gif"/>
 
 ### I'm [Angel Gonzalez]
 
