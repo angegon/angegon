@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 A developer from Madrid. I love building applications & discussing new product ideas. <br> Reach out to me on   <code>
     <a href="https://www.linkedin.com/in/angelgonzalezmartin/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code> if you'd like to talk ✌️
     
-    https://github.com/angegon/angegon/blob/main/linkedin.svg
+<code>
+    <a href="https://www.linkedin.com/in/angelgonzalezmartin/" title="LinkedIn Profile"><img width="22" src="https://github.com/angegon/angegon/blob/main/linkedin.svg"> LinkedIn</a></code>    
+    
 
 ### I'm Currently
 
