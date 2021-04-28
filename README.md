@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" alt="angegon" width="150" height="150" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"/>
+
+<img align="right" alt="angegon" width="150" height="150" src="https://github.com/angegon/angegon/blob/main/A8gJ.gif"/>
 
 ### I'm [Angel Gonzalez]
 
