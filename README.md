@@ -28,8 +28,8 @@ A developer from Madrid. I love building applications & discussing new product i
 
 - 👷🏽‍ I’m currently learning al [42 Madrid](https://www.42madrid.com)
 
-<div>
-    <div style="float:right;">  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angegon&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10"/><div>
-    <div style="float:left;">  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angegon&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10"/><div>
-<div>
+<table>
+    <th>  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angegon&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10"/></th>
+    <th>  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angegon&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10"/></th>
+</table>
 
