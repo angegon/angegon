@@ -25,4 +25,4 @@ A developer from Madrid. I love building applications & discussing new product i
 
 ### I'm Currently
 
-- 👷🏽‍ I’m currently learning al [42 Madrid](https://www.42madrid.com)
+- 👷🏽‍ I’m currently learning at [42 Madrid](https://www.42madrid.com) and [CFTIC](https://cftic.centrosdeformacion.empleo.madrid.org/)
