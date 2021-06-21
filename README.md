@@ -30,7 +30,7 @@ A developer from Madrid. I love building applications & discussing new product i
 ### Projects
 
 <ul>
-    <li><a href="https://angegon.github.io/IFCD0210-Desarrollo-de-aplicaciones-con-tecnologia-web/" target="_blank">IFCD0210-Desarrollo-de-aplicaciones-con-tecnologia-web</a><br>
+    <li><a href="https://angegon.github.io/IFCD0210-Desarrollo-de-aplicaciones-con-tecnologia-web/" target="_blank">IFCD0210 Desarrollo de aplicaciones con tecnología web</a><br>
 Certificado Profesionalidad "IFCD0210 Desarrollo de aplicaciones con Tecnologías Web (html + css + javascript + php + mysql)" 590 horas con prácticas en empresa de 80 horas incluidas</li>
 </ul>
 
