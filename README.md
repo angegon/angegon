@@ -29,4 +29,4 @@ A developer from Madrid. I love building applications & discussing new product i
 
 ### Projects
 
-For more information about projects please see repository tab
+For more information about projects please see repository tab.
