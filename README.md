@@ -25,13 +25,8 @@ A developer from Madrid. I love building applications & discussing new product i
 
 ### I'm Currently
 
-- 👷🏽‍ I’m currently learning at [42 Madrid](https://www.42madrid.com) and Javascript & PHP program in [CFTIC](https://cftic.centrosdeformacion.empleo.madrid.org/)
+- 👷🏽‍ I’m currently learning a Higher Level Training Cycle Web Application Development - Official two-year program [More Info](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html)
 
 ### Projects
-
-<ul>
-    <li><a href="#" target="_blank">IFCD0210 Desarrollo de aplicaciones con tecnología web</a><br>
-Certificado Profesionalidad "IFCD0210 Desarrollo de aplicaciones con Tecnologías Web (html + css + javascript + php + mysql)" 590 horas con prácticas en empresa de 80 horas incluidas</li>
-</ul>
 
 For more information about projects please see repository tab
