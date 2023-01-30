@@ -25,7 +25,7 @@ A developer from Madrid. I love building applications & discussing new product i
 
 ### I'm Currently
 
-- 👷🏽‍ I’m currently learning a Higher Level Training Cycle Web Application Development - Official two-year program [More Info](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html)
+- 👷🏽‍ I’m currently learning a Higher Level Training Cycle Web Application Development - Official two-year program. [More Info](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html)
 
 ### Projects
 
